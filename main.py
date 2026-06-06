@@ -3,7 +3,7 @@ import json
 import requests
 import websockets
 
-TOKEN = "MTQ5MzIyMzkyNTAxMjg5Mzg2Nw.GYhjD4.YtclyWyqpGs4i3wL-LmCS4gPpTyMxskpOAkudg"
+TOKEN = ".-LmCS4gPpTyMxskpOAkudg"
 GUILD_ID = "505974446914535426"
 CHANNEL_ID = "1122342745432916083"
 
